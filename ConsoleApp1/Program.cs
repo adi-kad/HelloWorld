@@ -6,7 +6,7 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Published!");
+            Console.WriteLine("More changes!");
         }
     }
 }
